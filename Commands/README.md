@@ -1,23 +1,4 @@
-# picoCTF - General Skills (Day 1)
 
-Today I built a stronger foundation in Linux and cybersecurity by solving beginner-friendly picoCTF General Skills challenges. I learned how to navigate Linux, analyze files, use command-line tools, and approach CTF challenges methodically.
-
----
-
-# Challenges Solved
-
-- ✅ Lets Warm Up
-- ✅ Wave a Flag
-- ✅ Nice netcat...
-- ✅ strings it
-- ✅ Based
-- ✅ Python Wrangling
-- ✅ First Find
-- ✅ Static ain't always noise
-- ✅ What's a Pipe?
-- ✅ grep
-
----
 
 # Linux Fundamentals
 
