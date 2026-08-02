@@ -28,9 +28,9 @@ Improve my Linux skills for Cybersecurity, CTFs, and System Administration.
 
 ##  Progress
 
-- [x] Basic Commands
-- [ ] File System
-- [ ] Permissions
-- [ ] Bash
-- [ ] Networking
-- [ ] Package Management
+- [x] Basic Commands.
+- [ ] File System.
+- [ ] Permissions.
+- [ ] Bash.
+- [ ] Networking.
+- [ ] Package Management.
