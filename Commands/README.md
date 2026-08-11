@@ -368,11 +368,11 @@ man
 
 # Key Takeaways
 
-- Linux commands become much more powerful when combined together.
-- Reading challenge instructions carefully is often more important than knowing many commands.
-- CTFs are about investigation, experimentation, and logical thinking.
-- Understanding *why* a command works is far more valuable than memorizing syntax.
-- Every solved challenge teaches a new tool or technique that can be reused in future challenges.
+- Linux commands become much more powerful when combined together
+- Reading challenge instructions carefully is often more important than knowing many commands
+- CTFs are about investigation, experimentation, and logical thinking
+- Understanding *why* a command works is far more valuable than memorizing syntax
+- Every solved challenge teaches a new tool or technique that can be reused in future challenges
 
 ---
 
