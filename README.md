@@ -21,7 +21,7 @@ Improve my Linux skills for Cybersecurity, CTFs, and System Administration.
 ## Tools
 
 - Ubuntu
-- Endeavour OS
+- Endeavour OS.
 - Bash
 - Git
 - VS Code
