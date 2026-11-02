@@ -6,13 +6,13 @@ This repository contains my personal notes about Linux commands, file system, pe
 
 ## Topics
 
-- Commands
-- File System
-- Permissions
-- Bash
-- Networking
-- Package Management
-- Resources
+- Commands.
+- File System.
+- Permissions.
+- Bash.
+- Networking.
+- Package Management.
+- Resources.
 
 ##  Goal
 
