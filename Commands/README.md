@@ -6,7 +6,7 @@
 
 ### `pwd`
 
-Displays the current working directory.
+Displays the current working directory
 
 ```bash
 pwd
@@ -50,7 +50,7 @@ cd ..
 
 ### `cat`
 
-Displays the contents of a file.
+Displays the contents of a file
 
 ```bash
 cat password.txt
