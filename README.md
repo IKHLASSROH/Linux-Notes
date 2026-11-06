@@ -6,23 +6,23 @@ This repository contains my personal notes about Linux commands, file system, pe
 
 ## Topics
 
-- Commands.
-- File System.
-- Permissions.
-- Bash.
-- Networking.
-- Package Management.
-- Resources.
+- Commands
+- File System
+- Permissions
+- Bash
+- Networking
+- Package Management
+- Resources
 
 ##  Goal
 
 Improve my Linux skills for Cybersecurity, CTFs, and System Administration.
 
 ## Tools
-- Arch linux.
-- Ubuntu.
-- Endeavour OS.
-- Bash.
-- Git.
-- VS Code.
+- Arch linux
+- Ubuntu
+- Endeavour OS
+- Bash
+- Git
+- VS Code
 
